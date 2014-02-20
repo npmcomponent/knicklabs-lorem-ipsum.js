@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [knicklabs/lorem-ipsum.js](http://github.com/knicklabs/lorem-ipsum.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/knicklabs-lorem-ipsum.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ### LoremIpsum.js
 
 LoremIpsum.js is a Node.js and Component.js module for generating passages of lorem ipsum text. Lorem ipsum text is commonly used as placeholder text in publishing, graphic design, and web development.
